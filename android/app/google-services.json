@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855392053267",
+    "project_id": "fordemo-f4121",
+    "storage_bucket": "fordemo-f4121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855392053267:android:c9f573ec43f2d18a0637e6",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855392053267-593qs7uh1li8jqbsuuvt98h4k280oegb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeSMnSOmEbh2ap23zk0R7ddPNAbXv66C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855392053267-593qs7uh1li8jqbsuuvt98h4k280oegb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
